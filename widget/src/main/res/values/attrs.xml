@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <declare-styleable name="WheelLayoutManager_Layout">
+        <attr name="outline" format="enum">
+            <enum name="square" value="1" />
+            <enum name="circle" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
